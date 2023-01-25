@@ -10,66 +10,66 @@ Want to learn more about cybersecurity? Discover cybersecurity resources: anythi
 
 ## Training Platforms 📖
 
-:link: [Hackthebox Academy](https://hackthebox.com)
-:link: [TryHackme](https://tryhackme.com)
-:link: [Cybrary](https://app.cybrary.it/)
-:link: [SANC Cyeber Aces](http://www.cyberaces.org/)
-:link: [INE elearn security](https://elearnsecurity.com/)
-:link: [Codered](https://codered.eccouncil.org/)
-:link: [Fortinet](https://www.fortinet.com/)
-:link: [IT Security GURU](https://www.itsecurityguru.org/)
-:link: [Udemy](https://www.udemy.com/)
-:link: [Coursera](https://in.coursera.org/)
-:link: [Edx](https://www.edx.org/)
-:link: [Plurasight](https://www.pluralsight.com/)
-:link: [Cyberacademy](https://cybercademy.org/author/grant/)
+:link: [Hackthebox Academy](https://hackthebox.com) <br></br>
+:link: [TryHackme](https://tryhackme.com)<br></br>
+:link: [Cybrary](https://app.cybrary.it/)<br></br>
+:link: [SANC Cyeber Aces](http://www.cyberaces.org/)<br></br>
+:link: [INE elearn security](https://elearnsecurity.com/)<br></br>
+:link: [Codered](https://codered.eccouncil.org/)<br></br>
+:link: [Fortinet](https://www.fortinet.com/)<br></br>
+:link: [IT Security GURU](https://www.itsecurityguru.org/)<br></br>
+:link: [Udemy](https://www.udemy.com/)<br></br>
+:link: [Coursera](https://in.coursera.org/)<br></br>
+:link: [Edx](https://www.edx.org/)<br></br>
+:link: [Plurasight](https://www.pluralsight.com/)<br></br>
+:link: [Cyberacademy](https://cybercademy.org/author/grant/)<br></br>
 
 
 ## Cybersecurity-Labs 🧪💻
 
 A collection of free labs to practice and test your REDTEAM/BLUETEAM and CTF Skills
 
-:anger: [Attack-Defense](https://attackdefense.com/)
-:anger:  [Alert to win](https://alf.nu/alert1)
-:anger:  [Bancocn](https://bancocn.com/)
-:anger: [CTF Komodo Security](https://ctf.komodosec.com/)
-:anger:  [CryptoHack](https://cryptohack.org/)
-:anger:  [CMD Challenge](https://cmdchallenge.com/)
-:anger: [Explotation Education](https://exploit.education/)
-:anger:  [Google CTF](https://lnkd.in/e46drbz8)
-:anger: [HackTheBox](https://www.hackthebox.com/)
-:anger: [Hackthis](https://www.hackthis.co.uk/)
-:anger:  [Hacksplaining](https://lnkd.in/eAB5CSTA)
-:anger:  [Hacker101](https://ctf.hacker101.com/)
-:anger:  [Hacker Security](https://lnkd.in/ex7R-C-e)
-:anger:  [Hacking-Lab](https://hacking-lab.com/)
-:anger:  [HSTRIKE](https://hstrike.com/)
-:anger: [ImmersiveLabs](https://immersivelabs.com/)
-:anger:  [NewbieContest](https://lnkd.in/ewBk6fU5)
-:anger: [OverTheWire](http://overthewire.org/)
-:anger: [Practical Pentest Labs](https://lnkd.in/esq9Yuv5)
-:anger: [Pentestlab](https://pentesterlab.com/)
-:anger: [Hackaflag BR](https://hackaflag.com.br/)
-:anger: [Penetration Testing Practice Labs](https://lnkd.in/e6wVANYd)
-:anger:  [PentestIT LAB](https://lab.pentestit.ru/)
-:anger:  [PicoCTF](https://picoctf.com/)
-:anger:  [PWNABLE](https://lnkd.in/eMEwBJzn)
-:anger:  [Root-Me](https://www.root-me.org/)
-:anger: [Root in Jail](http://rootinjail.com/)
-:anger:  [SANS Challenger](https://lnkd.in/e5TAMawK)
-:anger: [SmashTheStack](https://lnkd.in/eVn9rP9p)
-:anger:  [The Cryptopals Crypto Challenges](https://cryptopals.com/)
-:anger:  [Try Hack Me](https://tryhackme.com/)
-:anger:  [Vulnhub](https://www.vulnhub.com/)
-:anger:  [W3Challs](https://w3challs.com/)
-:anger: [WeChall](http://www.wechall.net/)
-:anger: [Zenk-Security](https://lnkd.in/ewJ5rNx2)
-:anger:  [Cyberdefenders](https://lnkd.in/dVcmjEw8)
-:anger:  [LetsDefend](https://letsdefend.io/)
-:anger: [Vulnmachines](https://vulnmachines.com)
-:anger:  [Rangeforce](https://www.rangeforce.com)
-:anger:  [Ctftime](https://ctftime.org)
-:anger:  [Pwn college](https://dojo.pwn.college)
+:anger: [Attack-Defense](https://attackdefense.com/)<br></br>
+:anger:  [Alert to win](https://alf.nu/alert1)<br></br>
+:anger:  [Bancocn](https://bancocn.com/)<br></br>
+:anger: [CTF Komodo Security](https://ctf.komodosec.com/)<br></br>
+:anger:  [CryptoHack](https://cryptohack.org/)<br></br>
+:anger:  [CMD Challenge](https://cmdchallenge.com/)<br></br>
+:anger: [Explotation Education](https://exploit.education/)<br></br>
+:anger:  [Google CTF](https://lnkd.in/e46drbz8)<br></br>
+:anger: [HackTheBox](https://www.hackthebox.com/)<br></br>
+:anger: [Hackthis](https://www.hackthis.co.uk/)<br></br>
+:anger:  [Hacksplaining](https://lnkd.in/eAB5CSTA)<br></br>
+:anger:  [Hacker101](https://ctf.hacker101.com/)<br></br>
+:anger:  [Hacker Security](https://lnkd.in/ex7R-C-e)<br></br>
+:anger:  [Hacking-Lab](https://hacking-lab.com/)<br></br>
+:anger:  [HSTRIKE](https://hstrike.com/)<br></br>
+:anger: [ImmersiveLabs](https://immersivelabs.com/)<br></br>
+:anger:  [NewbieContest](https://lnkd.in/ewBk6fU5)<br></br>
+:anger: [OverTheWire](http://overthewire.org/)<br></br>
+:anger: [Practical Pentest Labs](https://lnkd.in/esq9Yuv5)<br></br>
+:anger: [Pentestlab](https://pentesterlab.com/)<br></br>
+:anger: [Hackaflag BR](https://hackaflag.com.br/)<br></br>
+:anger: [Penetration Testing Practice Labs](https://lnkd.in/e6wVANYd)<br></br>
+:anger:  [PentestIT LAB](https://lab.pentestit.ru/)<br></br>
+:anger:  [PicoCTF](https://picoctf.com/)<br></br>
+:anger:  [PWNABLE](https://lnkd.in/eMEwBJzn)<br></br>
+:anger:  [Root-Me](https://www.root-me.org/)<br></br>
+:anger: [Root in Jail](http://rootinjail.com/)<br></br>
+:anger:  [SANS Challenger](https://lnkd.in/e5TAMawK)<br></br>
+:anger: [SmashTheStack](https://lnkd.in/eVn9rP9p)<br></br>
+:anger:  [The Cryptopals Crypto Challenges](https://cryptopals.com/)<br></br>
+:anger:  [Try Hack Me](https://tryhackme.com/)<br></br>
+:anger:  [Vulnhub](https://www.vulnhub.com/)<br></br>
+:anger:  [W3Challs](https://w3challs.com/)<br></br>
+:anger: [WeChall](http://www.wechall.net/)<br></br>
+:anger: [Zenk-Security](https://lnkd.in/ewJ5rNx2)<br></br>
+:anger:  [Cyberdefenders](https://lnkd.in/dVcmjEw8)<br></br>
+:anger:  [LetsDefend](https://letsdefend.io/)<br></br>
+:anger: [Vulnmachines](https://vulnmachines.com)<br></br>
+:anger:  [Rangeforce](https://www.rangeforce.com)<br></br>
+:anger:  [Ctftime](https://ctftime.org)<br></br>
+:anger:  [Pwn college](https://dojo.pwn.college)<br></br>
 
 
 ## Cybersecurity-Youtube Channels 📺
