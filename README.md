@@ -10,8 +10,8 @@ Want to learn more about cybersecurity? Discover cybersecurity resources: anythi
 
 ## Training Platforms 📖
 
-:link: [Hackthebox Academy](https://hackthebox.com) <br></br>
-:link: [TryHackme](https://tryhackme.com)<br></br>
+:link: [Hackthebox Academy](https://hackthebox.com) <br>
+:link: [TryHackme](https://tryhackme.com)<br>
 :link: [Cybrary](https://app.cybrary.it/)<br></br>
 :link: [SANC Cyeber Aces](http://www.cyberaces.org/)<br></br>
 :link: [INE elearn security](https://elearnsecurity.com/)<br></br>
