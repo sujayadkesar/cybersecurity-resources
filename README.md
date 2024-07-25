@@ -1,7 +1,6 @@
 # Cybersecurity Resources
 
 
-
 ## ⚛️ Overview
 Want to learn more about cybersecurity? Discover cybersecurity resources: anything from cybersecurity websites to podcasts, industry events, and organizations.
   
