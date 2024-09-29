@@ -23,7 +23,7 @@ Want to learn more about cybersecurity? Discover cybersecurity resources: anythi
 :link: [Edx](https://www.edx.org/)<br>
 :link: [Plurasight](https://www.pluralsight.com/)<br>
 :link: [Cyberacademy](https://cybercademy.org/author/grant/)<br>
-
+:link: [CyberPython](http://pythoncyber.go.ro:4443/)<br>
 
 ## Cybersecurity-Labs 🧪💻
 
