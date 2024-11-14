@@ -70,6 +70,7 @@ A collection of free labs to practice and test your REDTEAM/BLUETEAM and CTF Ski
 :anger:  [Rangeforce](https://www.rangeforce.com)<br>
 :anger:  [Ctftime](https://ctftime.org)<br>
 :anger:  [Pwn college](https://dojo.pwn.college)<br>
+:anger: [PythonCyber](https://pythoncyber.go.ro)<br>
 
 
 ## Cybersecurity-Youtube Channels 📺
