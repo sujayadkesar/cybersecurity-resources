@@ -70,6 +70,7 @@ A collection of free labs to practice and test your REDTEAM/BLUETEAM and CTF Ski
 :anger:  [Rangeforce](https://www.rangeforce.com)<br>
 :anger:  [Ctftime](https://ctftime.org)<br>
 :anger:  [Pwn college](https://dojo.pwn.college)<br>
+:anger:  [Computer Forensic Reference DataSet Portal](https://cfreds.nist.gov/)<br>
 
 
 ## Cybersecurity-Youtube Channels 📺
@@ -159,6 +160,7 @@ A collection of  Best Cybersecurity Youtube Channels I have came across and foun
 83. [Tech69](https://www.youtube.com/c/Tech69YT)
 84. [Cloud Security Podcast](https://www.youtube.com/c/CloudSecurityPodcast)
 85. [Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering)
+86. [PC Security Channel](https://www.youtube.com/@pcsecuritychannel)
 
 
 # Cybersecurity & Hacking Documentaries 🎥
@@ -190,3 +192,4 @@ Some Great Cybersecurity & Hacking Documentaries Recommendations!
 23. [Hacker The Realm and Electron - Hacker Group](https://lnkd.in/dx_uyTuT)
 24. [Chasing Edward Snowden](https://www.youtube.com/watch?v=8YkLS95qDjI)
 25. [The Hacker Wars](https://www.youtube.com/watch?v=ku9edEKvGuY)
+26. [Drones, Hackers, and Mercenaries - The Future of War](https://youtu.be/MZ60UDys_ZE?si=ks9ld7PY3UBynxrl)
